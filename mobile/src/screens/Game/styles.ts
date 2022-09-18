@@ -23,8 +23,10 @@ const styles = StyleSheet.create({
     height: 20
   },
   cover: {
-    width: 311,
-    height: 160,
+    // width: 311,
+    // height: 160,
+    width: 160.5, // modified because I have a small cellphone
+    height: 80,
     borderRadius: 8,
     marginTop: 32
   },
